@@ -13,7 +13,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.0.4",
 	"appid": "wx193875484e3f1b48",
-	"projectname": "wxApp",
+	"projectname": "wxNotepad",
 	"isGameTourist": false,
 	"condition": {
 		"search": {
